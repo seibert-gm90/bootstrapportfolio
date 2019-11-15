@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.nameBar {
+    background-color: #4aaaa5;
+    width: 200px;
+    height: 82px;
+    color: white;
+}
+
+.collapse {
+    float: right;
+}
+
+.body {
+    background: img url("images/abstract-ancient-antique-art-235985.jpg");
+}
