@@ -2,10 +2,13 @@
     box-sizing: border-box;
 }
 
-.nameBar {
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
     background-color: #4aaaa5;
-    width: 200px;
-    height: 82px;
     color: white;
 }
 
