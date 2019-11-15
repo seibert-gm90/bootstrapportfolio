@@ -16,6 +16,6 @@ html,body {
     float: right;
 }
 
-.body {
-    background: img url("images/abstract-ancient-antique-art-235985.jpg");
+.btn-primary {
+    background-color:  #4aaaa5;
 }
